@@ -2,8 +2,8 @@
 #include <ESP8266WiFi.h>
 //#define STASSID "GT"
 //#define STAPSK  "04201900"
-#define STASSID "$_WiFi-Plus_$"
-#define STAPSK  "MiRedWifi9876543210AZ"
+#define STASSID "SSID"
+#define STAPSK  "PASSWORD"
 /////////////////////////USAMOS//LOS//PINES//SERIALES//DEL//PM2.5/////////////////////////////
 // El pin TX del sensor debe conectarse al RX del NODE MCU
 #include "PMS.h"
